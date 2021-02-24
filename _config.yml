@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: https://hjl-a186.github.io/
 url: https://github.com/hjl-A186/huang.github.io.git
 date_format: "ordinal"
 title: 码志
